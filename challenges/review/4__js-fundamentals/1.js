@@ -4,3 +4,10 @@
 // Choose names that make the code easy to understand.
 //
 // Note:  None of the review # problems have tests included, but feel free to write your own.
+
+function fun(num){
+  if(num % 3 === 0){
+    return true;
+  } 
+    return false;
+}
